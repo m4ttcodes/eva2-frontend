@@ -1,0 +1,34 @@
+/* Hoja de estilos CSS que se aplica a diferentes secciones a lo largo del código, a nivel de id, clases y etiqueta */
+
+form {
+    padding-bottom: 100px;
+}
+
+.eslogan {
+    padding: 50px;
+    text-align: center;
+    background-color: blueviolet;
+}
+.contacto {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.navbar-brand {
+    padding-left: 50px;
+}
+
+.navbar-brand-name {
+    padding-left: 5px;
+}
+
+#card {
+    padding-top: 100px;
+}
+
+#footer {
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
